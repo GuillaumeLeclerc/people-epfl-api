@@ -1,1 +1,5 @@
 224338 - Guillaume Paul Olivier Leclerc - IN - guillaume.leclerc@epfl.ch
+214750 - Matvey Khokhlov - IN - matvey.khokhlov@epfl.ch
+224878 - Benoit Truc - PH - benoit.truc@epfl.ch
+247321 - Marc Bickel - IN - marc.bickel@epfl.ch
+223893 - Aymeric Galan - PH - aymeric.galan@epfl.ch
