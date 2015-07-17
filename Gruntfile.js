@@ -1,7 +1,10 @@
 module.exports = function(grunt) {
 	grunt.initConfig({
 		nodeunit : {
-			all : ['tests/*.js']
+			all : ['tests/*.js'],
+			options : {
+				reporter : "default"
+			}
 		}
 	});
 
